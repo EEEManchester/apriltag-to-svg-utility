@@ -39,3 +39,6 @@ scale_factor = 128
 
 ### Operation
 Run the script with `Python3`. Tags will be downloaded to the `tag/<tag-family>` directory next to the `tag_tracer.py` file
+
+### Licence
+This is licenced with GPL2 in line with the dependencies used.
