@@ -1,4 +1,4 @@
-# Tag-Trace
+# AprilTag Image to SVG Utility
 
 This is a rough and ready python script that can download AprilTag images from the AprilRobotic's Tag Image repo and trace them to create svg paths. These can be imported into CAD programs or edited in inkscape if required.
 
