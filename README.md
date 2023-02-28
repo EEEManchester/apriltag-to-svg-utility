@@ -9,9 +9,13 @@ https://pypi.org/project/requests/
 
 https://pypi.org/project/potracer/ (a pure-python implementation of potrace which is slow but easy to install)
 
+https://pypi.org/project/Pillow/ (you might need to uninstall old PIL package first)
+
 ```bash
-pip install requests potracer 
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade Pillow requests potracer 
 ```
+(note on windows `python3` might just be `python`)
 
 ## `tag-tracer.py`
 
