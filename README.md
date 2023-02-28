@@ -46,3 +46,6 @@ Run the script with `Python3`. Tags will be downloaded to the `tag/<tag-family>`
 
 ### Licence
 This is licenced with GPL2 in line with the dependencies used.
+
+### Notes
+I am not a python programmer so this is probably very poorly written code - hopefully it is useful nonetheless. Good luck!
